@@ -213,6 +213,7 @@ Nó có màu đỏ khi di chuột vào */
 #slider .text-description{
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 #content{
 
